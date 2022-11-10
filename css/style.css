@@ -1,0 +1,10 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+ 
+body {
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "MS Ｐ明朝", "MS 明朝", serif;
+}
+ 
